@@ -6,6 +6,7 @@ Allows Linux user authentication to Azure AD via pam_exec
 
 * An Azure AD directory has been created, and some users exist
 * Node.js and npm are installed in the Linux VM
+* Version 4.1+ required for Node.js https://github.com/nodejs/node-v0.x-archive/wiki/Installing-Node.js-via-package-manager
 * A directory application has been created (native client type) and you have the Client ID
 * Your PAM distribution has pam_exec.so
 
